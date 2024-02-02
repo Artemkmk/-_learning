@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\bin\Debug\конвертер валют.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\bin\Debug\конвертер валют.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\bin\Debug\конвертер валют.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\obj\Debug\конвертер валют.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\obj\Debug\конвертер валют.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\obj\Debug\конвертер валют.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\obj\Debug\конвертер валют.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\конвертер валют\obj\Debug\конвертер валют.pdb

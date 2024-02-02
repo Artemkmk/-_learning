@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\bin\Debug\сумма и произведение.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\bin\Debug\сумма и произведение.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\bin\Debug\сумма и произведение.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\obj\Debug\сумма и произведение.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\obj\Debug\сумма и произведение.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\obj\Debug\сумма и произведение.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\obj\Debug\сумма и произведение.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz1\сумма и произведение\сумма и произведение\obj\Debug\сумма и произведение.pdb
