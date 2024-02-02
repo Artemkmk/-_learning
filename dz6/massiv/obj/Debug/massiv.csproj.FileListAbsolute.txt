@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\obj\Debug\massiv.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\obj\Debug\massiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\obj\Debug\massiv.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\bin\Debug\massiv.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\bin\Debug\massiv.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\bin\Debug\massiv.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\obj\Debug\massiv.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\massiv\obj\Debug\massiv.pdb

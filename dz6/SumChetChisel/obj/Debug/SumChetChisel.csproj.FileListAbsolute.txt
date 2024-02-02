@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\bin\Debug\SumChetChisel.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\bin\Debug\SumChetChisel.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\bin\Debug\SumChetChisel.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\obj\Debug\SumChetChisel.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\obj\Debug\SumChetChisel.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\obj\Debug\SumChetChisel.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\obj\Debug\SumChetChisel.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\SumChetChisel\obj\Debug\SumChetChisel.pdb

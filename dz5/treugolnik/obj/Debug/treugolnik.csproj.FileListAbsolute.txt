@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\bin\Debug\treugolnik.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\bin\Debug\treugolnik.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\bin\Debug\treugolnik.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\obj\Debug\treugolnik.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\obj\Debug\treugolnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\obj\Debug\treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\obj\Debug\treugolnik.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz5\treugolnik\obj\Debug\treugolnik.pdb

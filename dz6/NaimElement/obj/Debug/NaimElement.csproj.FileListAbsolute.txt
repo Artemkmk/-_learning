@@ -1,0 +1,8 @@
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\bin\Debug\NaimElement.exe.config
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\bin\Debug\NaimElement.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\bin\Debug\NaimElement.pdb
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\obj\Debug\NaimElement.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\obj\Debug\NaimElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\obj\Debug\NaimElement.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\obj\Debug\NaimElement.exe
+C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\NaimElement\obj\Debug\NaimElement.pdb
