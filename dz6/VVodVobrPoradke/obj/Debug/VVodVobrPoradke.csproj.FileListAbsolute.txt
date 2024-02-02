@@ -1,8 +1,0 @@
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\bin\Debug\VVodVobrPoradke.exe.config
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\bin\Debug\VVodVobrPoradke.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\bin\Debug\VVodVobrPoradke.pdb
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\obj\Debug\VVodVobrPoradke.csproj.AssemblyReference.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\obj\Debug\VVodVobrPoradke.csproj.SuggestedBindingRedirects.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\obj\Debug\VVodVobrPoradke.csproj.CoreCompileInputs.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\obj\Debug\VVodVobrPoradke.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz6\VVodVobrPoradke\obj\Debug\VVodVobrPoradke.pdb
