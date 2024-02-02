@@ -1,8 +1,0 @@
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\bin\Debug\калькуляторCASE.exe.config
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\bin\Debug\калькуляторCASE.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\bin\Debug\калькуляторCASE.pdb
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\obj\Debug\калькуляторCASE.csproj.AssemblyReference.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\obj\Debug\калькуляторCASE.csproj.SuggestedBindingRedirects.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\obj\Debug\калькуляторCASE.csproj.CoreCompileInputs.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\obj\Debug\калькуляторCASE.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькуляторCASE\obj\Debug\калькуляторCASE.pdb

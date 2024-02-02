@@ -1,8 +1,0 @@
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\bin\Debug\калькулятор.exe.config
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\bin\Debug\калькулятор.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\bin\Debug\калькулятор.pdb
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\obj\Debug\калькуляторIF.csproj.AssemblyReference.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\obj\Debug\калькуляторIF.csproj.SuggestedBindingRedirects.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\obj\Debug\калькуляторIF.csproj.CoreCompileInputs.cache
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\obj\Debug\калькулятор.exe
-C:\Users\mich_\OneDrive\Рабочий стол\С#\ДЗ\dz3\калькулятор\obj\Debug\калькулятор.pdb
